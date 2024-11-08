@@ -41,6 +41,15 @@ Whether you're a beginner looking to learn the basics or an experienced practiti
      - Applications in medical imaging, autonomous driving, etc.
    - **Technologies Used**: Python, PyTorch, OpenCV
 
+### 4. **Real-Time_parking-Space-Detection.
+   - **Description**: It accurately identifies available parking spots from live video feeds, improving urban mobility.
+   - **Key Features**:
+       - U-Net Architecture: Enables precise pixel-wise segmentation to differentiate between occupied and free parking spaces.
+       - Real-Time Processing: Provides immediate feedback for drivers, crucial in busy urban environments.
+       - Applications: Useful for smart city initiatives, autonomous vehicles, and traffic management.
+   - **Technologies Used**: Python, PyTorch, OpenCV
+     
+
 _(Add additional projects here as needed)_
 
 ## Model Explanations
